@@ -1,15 +1,20 @@
 <html>
-  <head>
+<head>
     <title>Pocket Calculator</title>
-<!--    <link rel="stylesheet" href="default.css">-->
+    <!--    <link rel="stylesheet" href="default.css">-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <script>
       'use strict';
 
       var value = 1;
 
-<!--      var states = {-->
+      var states = {
 
+        "start": 0,
+        "operand1": 1,
+        "operator": 2,
+        "operand2": 3,
+        "complete": 4
       };
       var state = states.start;
 
