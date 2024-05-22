@@ -18,3 +18,5 @@ Timi is on vacation
 Timi is just relaxing with the flu
 Hello Eva
 Hello Kata
+
+Created hotfix-Damir branch and currently working on it
