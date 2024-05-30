@@ -18,3 +18,5 @@ Timi is on vacation
 Timi is just relaxing with the flu
 Hello Eva
 Hello Kata
+
+I'm a funny guy and like to work in the same line as others (⌐⊙_⊙)
