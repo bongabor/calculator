@@ -7,11 +7,14 @@ BODY
     background-color: #1b4076;
 }
 
+<<<<<<< HEAD
 @media screen and (min-device-width: 500px) and (min-device-height: 1024px)
 {
     {
     }
 }
+=======
+>>>>>>> 376fe5c (master change)
 
 @media screen and (min-device-width: 1024px) and (min-device-height: 1366px)
 {
