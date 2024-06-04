@@ -22,3 +22,5 @@ Hello Kata
 Created hotfix-Damir branch and currently working on it (⌐⊙_⊙)
 
 Change before the rebase mess #1
+
+Change before the rebase mess #2
