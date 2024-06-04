@@ -19,4 +19,4 @@ Timi is just relaxing with the flu
 Hello Eva
 Hello Kata
 
-I'm a funny guy and like to work in the same line as others (⌐⊙_⊙)
+Created hotfix-Damir branch and currently working on it (⌐⊙_⊙)
