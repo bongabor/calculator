@@ -12,7 +12,6 @@ BODY
     BODY
     {
         transform: scale(1.75);
-        transform-origin: 50% 0;
     }
 }
 
