@@ -20,3 +20,5 @@ Hello Eva
 Hello Kata
 
 Created hotfix-Damir branch and currently working on it (⌐⊙_⊙)
+
+Change before the rebase mess #1
